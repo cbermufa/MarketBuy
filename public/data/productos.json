@@ -1,0 +1,264 @@
+[
+    {
+        "id": 1,
+        "nombre": "Augustiner Edelstoff 50 cl",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importada de Alemania.",
+        "precio": 13850.00,
+        "imagen": "/assets/licores/Augustiner-Edelstoff-50.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Boon Duivels Bier 330ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importada de Bélgica.",
+        "precio": 2465.00,
+        "imagen": "/assets/licores/Boon_Duivels_Bier_330ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Chimay 150 330ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importada de Bélgica.",
+        "precio": 1795.00,
+        "imagen": "/assets/licores/Chimay_150_330ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Duvel Tripel Citra 330ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importada de Bélgica.",
+        "precio": 1655.00,
+        "imagen": "/assets/licores/Duvel_Tripel_Citra_330ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Erdinger Dunkel Weissbier 500ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importada de Alemania.",
+        "precio": 1710.00,
+        "imagen": "/assets/licores/Erdinger_Dunkel_Weissbier_500ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 6,
+        "nombre": "Firestone Walker Gin Rickey 2020 355ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza premium limitada",
+        "precio": 8110.00,
+        "imagen": "/assets/licores/Firestone_Walker_Gin_Rickey_2020_355ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 7,
+        "nombre": "Guinness Original Extra Stout 500ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza premium limitada",
+        "precio": 1735.00,
+        "imagen": "/assets/licores/Guinness-Original-Extra-Stout-500ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 8,
+        "nombre": "Killarney Full Circle 500ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza premium limitada",
+        "precio": 2315.00,
+        "imagen": "/assets/licores/Killarney_Full_Circle_500ml.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 9,
+        "nombre": "La Chouffe 330ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importa de Bélgica",
+        "precio": 2315.00,
+        "imagen": "/assets/licores/La-Chouffe-33.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Paulaner Hefe Weissbier 500ml",
+        "categoria": "Licores",
+        "descripcion": "Cerveza importa de Alemania",
+        "precio": 1735.00,
+        "imagen": "/assets/licores/Paulaner_Hefe_Weissbier_500ml.jpg",
+		"cantidad": 10
+    },
+    {
+      "id": 11,
+      "nombre": "Chocolate Ritter con Avellanas",
+      "categoria": "Chocolates",
+      "descripcion": "Chocolate alemán.",
+      "precio": 1400.00,
+      "imagen": "/assets/chocolates/0142635-ritter-chocolate-con-avellanas-enteras.jpg",
+	  "cantidad": 10
+    },
+    {
+        "id": 12,
+        "nombre": "Chocolate Ritter con semiamargo",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate semiamargo con almendras y naranja.",
+        "precio": 1400.00,
+        "imagen": "/assets/chocolates/0142772-CHOCOLATE-SEMIAMARGO-CON-ALMENDRAS-Y-NARANJA-100GR-RITTER-1.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 13,
+        "nombre": "Bandeja de turrones 1880",
+        "categoria": "Chocolates",
+        "descripcion": "Bandeja de turrones importados de España.",
+        "precio": 1750.00,
+        "imagen": "/assets/chocolates/bandeja-de-turrones.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 14,
+        "nombre": "Chocolate amargo Callier",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate amargo importado de Suiza.",
+        "precio": 1950.00,
+        "imagen": "/assets/chocolates/chocolate-amargo-80-cocina-200g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 15,
+        "nombre": "Chocolate con leche Favarger",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate con leche importado de Suiza.",
+        "precio": 1550.00,
+        "imagen": "/assets/chocolates/chocolate-con-leche-100g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 16,
+        "nombre": "Chocolate amargo Cafarell",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate 90% cacao.",
+        "precio": 1750.00,
+        "imagen": "/assets/chocolates/EXTRA-DARK-90-BAR.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 17,
+        "nombre": "Chocolate Ritter Cocoa Selection 74",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate 74% cacao.",
+        "precio": 1400.00,
+        "imagen": "/assets/chocolates/Ritter-Chocolate-CocoaSelection-74.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 18,
+        "nombre": "Chocolate Ritter Fresa Yogurt",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate importado sabor a fresa yogurt.",
+        "precio": 1400.00,
+        "imagen": "/assets/chocolates/Ritter-Chocolate-FresaYogurt.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 19,
+        "nombre": "Chocolate Ritter Honey Salt Almonds",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate con almendras saladas",
+        "precio": 1400.00,
+        "imagen": "/assets/chocolates/Ritter-Chocolate-HoneySaltAlmonds.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 20,
+        "nombre": "Chocolate Ritter Avellanas con Leche",
+        "categoria": "Chocolates",
+        "descripcion": "Chocolate con avellanas y leche",
+        "precio": 1400.00,
+        "imagen": "/assets/chocolates/Ritter-Chocolate-LecheAvellanasEnteras.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 21,
+        "nombre": "Arrachera negra",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res",
+        "precio": 5400.00,
+        "imagen": "/assets/carnes/arrachera-negra-res-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 22,
+        "nombre": "Cowboy Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 7200.00,
+        "imagen": "/assets/carnes/cowboy-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 23,
+        "nombre": "New York Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 6800.00,
+        "imagen": "/assets/carnes/new-york-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 24,
+        "nombre": "Porterhouse Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 5900.00,
+        "imagen": "/assets/carnes/porterhouse-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 25,
+        "nombre": "Rib Eye Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 6800.00,
+        "imagen": "/assets/carnes/rib-eye-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 26,
+        "nombre": "Sirloin",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 8100.00,
+        "imagen": "/assets/carnes/sirloin-high-choice-jc_32f68649-75aa-4ad0-8b60-80118945d1f4.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 27,
+        "nombre": "Tablita",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 4900.00,
+        "imagen": "/assets/carnes/tablita-lomo-high-choice-corte-res-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 28,
+        "nombre": "T-Bone Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 5900.00,
+        "imagen": "/assets/carnes/t-bone-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 29,
+        "nombre": "Tomahawk Steak",
+        "categoria": "Carnes",
+        "descripcion": "Carne de res premium",
+        "precio": 6500.00,
+        "imagen": "/assets/carnes/tomahawk-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    }
+  ]
+  
