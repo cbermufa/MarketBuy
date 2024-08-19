@@ -7,6 +7,7 @@ import AppCarnes from '@/views/AppCarnes.vue';
 import AppChocolates from '@/views/AppChocolates.vue';
 import AppSnacks from '@/views/AppSnacks.vue';
 import AppCarrito from '@/views/AppCarrito.vue';
+import AppQuienesSomos from '@/views/AppQuienesSomos.vue';
 
 const routes = [
   { path: '/', name: 'inicio', component: AppInicio },
@@ -15,6 +16,7 @@ const routes = [
   { path: '/productos/chocolates', name: 'Chocolates', component: AppChocolates },
   { path: '/productos/carnes', name: 'Carnes', component: AppCarnes },
   { path: '/productos/snacks', name: 'Snacks', component: AppSnacks },
+  { path: '/nosotros', name: 'Nosotros', component: AppQuienesSomos },
   { path: '/contacto', name: 'Contacto', component: AppContacto },
   { path: '/carrito', name: 'Carrito', component: AppCarrito }
 ];

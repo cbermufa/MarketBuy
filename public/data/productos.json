@@ -5,7 +5,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importada de Alemania.",
         "precio": 13850.00,
-        "imagen": "/assets/licores/Augustiner-Edelstoff-50.jpg",
+        "imagen": "/assets/Licores/Augustiner-Edelstoff-50.jpg",
 		"cantidad": 10
     },
     {
@@ -14,7 +14,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importada de Bélgica.",
         "precio": 2465.00,
-        "imagen": "/assets/licores/Boon_Duivels_Bier_330ml.jpg",
+        "imagen": "/assets/Licores/Boon_Duivels_Bier_330ml.jpg",
 		"cantidad": 10
     },
     {
@@ -23,7 +23,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importada de Bélgica.",
         "precio": 1795.00,
-        "imagen": "/assets/licores/Chimay_150_330ml.jpg",
+        "imagen": "/assets/Licores/Chimay_150_330ml.jpg",
 		"cantidad": 10
     },
     {
@@ -32,7 +32,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importada de Bélgica.",
         "precio": 1655.00,
-        "imagen": "/assets/licores/Duvel_Tripel_Citra_330ml.jpg",
+        "imagen": "/assets/Licores/Duvel_Tripel_Citra_330ml.jpg",
 		"cantidad": 10
     },
     {
@@ -41,7 +41,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importada de Alemania.",
         "precio": 1710.00,
-        "imagen": "/assets/licores/Erdinger_Dunkel_Weissbier_500ml.jpg",
+        "imagen": "/assets/Licores/Erdinger_Dunkel_Weissbier_500ml.jpg",
 		"cantidad": 10
     },
     {
@@ -50,7 +50,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza premium limitada",
         "precio": 8110.00,
-        "imagen": "/assets/licores/Firestone_Walker_Gin_Rickey_2020_355ml.jpg",
+        "imagen": "/assets/Licores/Firestone_Walker_Gin_Rickey_2020_355ml.jpg",
 		"cantidad": 10
     },
     {
@@ -59,7 +59,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza premium limitada",
         "precio": 1735.00,
-        "imagen": "/assets/licores/Guinness-Original-Extra-Stout-500ml.jpg",
+        "imagen": "/assets/Licores/Guinness-Original-Extra-Stout-500ml.jpg",
 		"cantidad": 10
     },
     {
@@ -68,7 +68,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza premium limitada",
         "precio": 2315.00,
-        "imagen": "/assets/licores/Killarney_Full_Circle_500ml.jpg",
+        "imagen": "/assets/Licores/Killarney_Full_Circle_500ml.jpg",
 		"cantidad": 10
     },
     {
@@ -77,7 +77,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importa de Bélgica",
         "precio": 2315.00,
-        "imagen": "/assets/licores/La-Chouffe-33.jpg",
+        "imagen": "/assets/Licores/La-Chouffe-33.jpg",
 		"cantidad": 10
     },
     {
@@ -86,7 +86,7 @@
         "categoria": "Licores",
         "descripcion": "Cerveza importa de Alemania",
         "precio": 1735.00,
-        "imagen": "/assets/licores/Paulaner_Hefe_Weissbier_500ml.jpg",
+        "imagen": "/assets/Licores/Paulaner_Hefe_Weissbier_500ml.jpg",
 		"cantidad": 10
     },
     {
@@ -95,7 +95,7 @@
       "categoria": "Chocolates",
       "descripcion": "Chocolate alemán.",
       "precio": 1400.00,
-      "imagen": "/assets/chocolates/0142635-ritter-chocolate-con-avellanas-enteras.jpg",
+      "imagen": "/assets/Chocolates/0142635-ritter-chocolate-con-avellanas-enteras.jpg",
 	  "cantidad": 10
     },
     {
@@ -104,7 +104,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate semiamargo con almendras y naranja.",
         "precio": 1400.00,
-        "imagen": "/assets/chocolates/0142772-CHOCOLATE-SEMIAMARGO-CON-ALMENDRAS-Y-NARANJA-100GR-RITTER-1.jpg",
+        "imagen": "/assets/Chocolates/0142772-CHOCOLATE-SEMIAMARGO-CON-ALMENDRAS-Y-NARANJA-100GR-RITTER-1.jpg",
 		"cantidad": 10
     },
     {
@@ -113,7 +113,7 @@
         "categoria": "Chocolates",
         "descripcion": "Bandeja de turrones importados de España.",
         "precio": 1750.00,
-        "imagen": "/assets/chocolates/bandeja-de-turrones.jpg",
+        "imagen": "/assets/Chocolates/bandeja-de-turrones.jpg",
 		"cantidad": 10
     },
     {
@@ -122,7 +122,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate amargo importado de Suiza.",
         "precio": 1950.00,
-        "imagen": "/assets/chocolates/chocolate-amargo-80-cocina-200g.jpg",
+        "imagen": "/assets/Chocolates/chocolate-amargo-80-cocina-200g.jpg",
 		"cantidad": 10
     },
     {
@@ -131,7 +131,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate con leche importado de Suiza.",
         "precio": 1550.00,
-        "imagen": "/assets/chocolates/chocolate-con-leche-100g.jpg",
+        "imagen": "/assets/Chocolates/chocolate-con-leche-100g.jpg",
 		"cantidad": 10
     },
     {
@@ -140,7 +140,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate 90% cacao.",
         "precio": 1750.00,
-        "imagen": "/assets/chocolates/EXTRA-DARK-90-BAR.jpg",
+        "imagen": "/assets/Chocolates/EXTRA-DARK-90-BAR.jpg",
 		"cantidad": 10
     },
     {
@@ -149,7 +149,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate 74% cacao.",
         "precio": 1400.00,
-        "imagen": "/assets/chocolates/Ritter-Chocolate-CocoaSelection-74.jpg",
+        "imagen": "/assets/Chocolates/Ritter-Chocolate-CocoaSelection-74.jpg",
 		"cantidad": 10
     },
     {
@@ -158,7 +158,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate importado sabor a fresa yogurt.",
         "precio": 1400.00,
-        "imagen": "/assets/chocolates/Ritter-Chocolate-FresaYogurt.jpg",
+        "imagen": "/assets/Chocolates/Ritter-Chocolate-FresaYogurt.jpg",
 		"cantidad": 10
     },
     {
@@ -167,7 +167,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate con almendras saladas",
         "precio": 1400.00,
-        "imagen": "/assets/chocolates/Ritter-Chocolate-HoneySaltAlmonds.jpg",
+        "imagen": "/assets/Chocolates/Ritter-Chocolate-HoneySaltAlmonds.jpg",
 		"cantidad": 10
     },
     {
@@ -176,7 +176,7 @@
         "categoria": "Chocolates",
         "descripcion": "Chocolate con avellanas y leche",
         "precio": 1400.00,
-        "imagen": "/assets/chocolates/Ritter-Chocolate-LecheAvellanasEnteras.jpg",
+        "imagen": "/assets/Chocolates/Ritter-Chocolate-LecheAvellanasEnteras.jpg",
 		"cantidad": 10
     },
     {
@@ -185,7 +185,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res",
         "precio": 5400.00,
-        "imagen": "/assets/carnes/arrachera-negra-res-jc.jpg",
+        "imagen": "/assets/Carnes/arrachera-negra-res-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -194,7 +194,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 7200.00,
-        "imagen": "/assets/carnes/cowboy-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/cowboy-steak-corte-res-high-choice-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -203,7 +203,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 6800.00,
-        "imagen": "/assets/carnes/new-york-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/new-york-steak-corte-res-high-choice-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -212,7 +212,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 5900.00,
-        "imagen": "/assets/carnes/porterhouse-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/porterhouse-steak-corte-res-high-choice-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -221,7 +221,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 6800.00,
-        "imagen": "/assets/carnes/rib-eye-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/rib-eye-steak-corte-res-high-choice-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -230,7 +230,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 8100.00,
-        "imagen": "/assets/carnes/sirloin-high-choice-jc_32f68649-75aa-4ad0-8b60-80118945d1f4.jpg",
+        "imagen": "/assets/Carnes/sirloin-high-choice-jc_32f68649-75aa-4ad0-8b60-80118945d1f4.jpg",
 		"cantidad": 10
     },
     {
@@ -239,7 +239,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 4900.00,
-        "imagen": "/assets/carnes/tablita-lomo-high-choice-corte-res-jc.jpg",
+        "imagen": "/assets/Carnes/tablita-lomo-high-choice-corte-res-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -248,7 +248,7 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 5900.00,
-        "imagen": "/assets/carnes/t-bone-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/t-bone-steak-corte-res-high-choice-jc.jpg",
 		"cantidad": 10
     },
     {
@@ -257,7 +257,70 @@
         "categoria": "Carnes",
         "descripcion": "Carne de res premium",
         "precio": 6500.00,
-        "imagen": "/assets/carnes/tomahawk-steak-corte-res-high-choice-jc.jpg",
+        "imagen": "/assets/Carnes/tomahawk-steak-corte-res-high-choice-jc.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 30,
+        "nombre": "Nueces y pasas",
+        "categoria": "Snacks",
+        "descripcion": "Nueces y pasas Ültje 200g",
+        "precio": 1975.00,
+        "imagen": "/assets/Snacks/nueces-y-pasas-ültje-200g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 31,
+        "nombre": "Gusanitos de cacahuete",
+        "categoria": "Snacks",
+        "descripcion": "Gusanitos de cacahuete Lorenz 175g",
+        "precio": 1290.00,
+        "imagen": "/assets/Snacks/gusanitos-de-cacahuete-Lorenz-175g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 32,
+        "nombre": "Cacahuetes crujientes",
+        "categoria": "Snacks",
+        "descripcion": "Nic Nacs Lorenz 110g",
+        "precio": 1495.00,
+        "imagen": "/assets/Snacks/Cacahuetes-crujientes-Nic-Nacs-Lorenz-110g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 32,
+        "nombre": "Galletas Mini con chocolate y leche",
+        "categoria": "Snacks",
+        "descripcion": "Galletas Mini Leibniz 125g",
+        "precio": 1250.00,
+        "imagen": "/assets/Snacks/Galletas-Mini-Leibniz-con-chocolate-con-leche-125g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 33,
+        "nombre": "Brezel Salados",
+        "categoria": "Snacks",
+        "descripcion": "Brezel Salados Saltletts Lorenz 200g",
+        "precio": 1475.00,
+        "imagen": "/assets/Snacks/Brezel-Salados-Saltletts-Lorenz-200g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 34,
+        "nombre": "Palitos de sal",
+        "categoria": "Snacks",
+        "descripcion": "Palitos de sal Lorenz 250g",
+        "precio": 1365.00,
+        "imagen": "/assets/Snacks/Brezel-Salados-Saltletts-Lorenz-200g.jpg",
+		"cantidad": 10
+    },
+    {
+        "id": 35,
+        "nombre": "Snacks variados",
+        "categoria": "Snacks",
+        "descripcion": "Snacks alemanes variados",
+        "precio": 37575.00,
+        "imagen": "/assets/Snacks/snacks-variados.jpg",
 		"cantidad": 10
     }
   ]

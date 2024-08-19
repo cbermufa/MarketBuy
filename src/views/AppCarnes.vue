@@ -74,7 +74,57 @@
 
 .producto img {
   width: 150px;
-  height: auto;
+  height: 150px;
+  object-fit: contain;
 }
+
+/* Media Queries para dispositivos móviles */
+@media (max-width: 1068px) {
+  .productos-lista {
+    grid-template-columns: repeat(4, 1fr); /* 2 columnas en pantallas medianas */
+  }
+}
+
+@media (max-width: 968px) {
+  .productos-lista {
+    grid-template-columns: repeat(3, 1fr); /* 2 columnas en pantallas medianas */
+  }
+}
+
+@media (max-width: 768px) {
+  .productos-lista {
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas en pantallas medianas */
+  }
+}
+
+@media (max-width: 480px) {
+  .productos-lista {
+    grid-template-columns: 1fr; /* 1 columna en pantallas pequeñas */
+  }
+
+  .producto img {
+    width: 100px; /* Reducir el tamaño de la imagen */
+  }
+
+  .producto {
+    padding: 10px; /* Reducir el padding */
+  }
+
+  .cantidadCarrito {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .inputCantidad {
+    width: 100%; /* Ajustar el ancho del input */
+    margin-bottom: 10px; /* Añadir margen inferior */
+  }
+
+  .btnPrincipal {
+    width: 100%; /* Botón ocupa el 100% del ancho */
+  }
+}
+
   </style>
   

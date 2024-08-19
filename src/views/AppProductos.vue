@@ -87,7 +87,8 @@
   
   .producto img {
     width: 100px;
-    height: auto;
+    height: 150px;
+    object-fit: contain;
   }
   
   .producto {
@@ -99,14 +100,7 @@
     font-size: 12px;
   }
   
-  /* .ver-mas {
-    display: inline-block;
-    margin-top: 10px;
-    color: #007bff;
-    text-decoration: none;
-  } */
-
-  .ver-mas {
+    .ver-mas {
     
     background: #0367A6;
     color: #fff !important;
@@ -127,5 +121,8 @@
   .ver-mas:hover {
     text-decoration: underline;
   }
+
+
+  
   </style>
   

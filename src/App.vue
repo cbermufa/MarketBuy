@@ -29,7 +29,11 @@ export default {
     handleKeydown(event) {
       // Verificar si se presiona la tecla Delete
       if (event.key === 'Backspace') {
-        this.$router.back(); // Ir a la página anterior
+        const target = event.target;
+        const isInput = target.tagName === 'INPUT' || target.tagName === 'TEXTAREA';
+        if (!isInput) {
+          this.$router.back(); // Ir a la página anterior
+        }
       }
     }
   }
@@ -43,7 +47,15 @@ export default {
   --color-background-hover: #0367A6;
   --color-app-body: #C9E2F2;
   --color-background-main: #FFFFFF;
+  --color-danger: #DC3545;
   --box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 #app {
@@ -53,7 +65,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  font-size: 16px;
+  font-size: 1rem;
 }
 html, body, #app {
   /* height: 100%; */
@@ -71,10 +83,13 @@ h1 {
     margin: 3rem;
 }
 
+header, footer{
+  height: 50px;
+}
+
 header {
   background-color: var(--color-background-header-footer);
   color: white;
-  /* padding: 10px 0px; */
   text-align: center;
   position: fixed;
   top: 0;
@@ -85,7 +100,6 @@ footer {
   background-color: var(--color-background-header-footer);
     color: white;
     text-align: center;
-    /* padding: 10px 0; */
 }
 
 .main-principal {
@@ -97,6 +111,15 @@ footer {
 
 main{
   flex: 1;
+}
+
+.inicio {
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 80vh;
 }
 
 p.precioProducto {
@@ -136,5 +159,27 @@ p.precioProducto {
     display: flex;
     justify-content: center;
 }
+
+button.btnEliminar {
+    background: var(--color-danger);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 5px;
+    color: #fff;
+}
+
+.btnEliminar:hover {
+    cursor: pointer;
+    background-color: #99000f;
+}
+
+.btnComprar {
+    float: right;
+    margin-top: 1rem;
+    /* margin-right: 10px; */
+    border-radius: 5px;
+}
+
+
 
 </style>
